@@ -161,11 +161,40 @@ Because of this, the analysis focuses on the earlier pandemic period to better c
 
 ## Key Insights
 
-The analysis revealed several important patterns:
+The analysis of COVID-19 mortality trends across selected European countries shows several important patterns.
 
-- Different countries experienced peak mortality in different months.
-- Vaccination rollout correlates with a gradual stabilization of death rates.
-- Pandemic waves varied significantly depending on policy responses and healthcare capacity.
+1. **Death curves flatten after vaccination rollout**
+
+Although the number of deaths initially continued to rise, the curves gradually started to flatten after the vaccination campaign began.  
+This suggests that vaccination significantly reduced the growth rate of mortality.
+
+2. **Vaccination effects appear with delay**
+
+The analysis compares two periods:
+
+- January – April 2021 (early vaccination phase)
+- May – August 2021 (post-vaccination phase)
+
+The delay occurs because:
+- vaccination rollout takes time
+- population immunity builds gradually
+- full protection usually requires multiple doses
+
+3. **Pandemic peaks differed between countries**
+
+The worst pandemic month varied by country, which suggests that local factors such as:
+
+- lockdown policies
+- healthcare capacity
+- emergence of new variants
+
+played a significant role.
+
+4. **Daily death spikes reveal pandemic waves**
+
+By analyzing daily death increases rather than cumulative totals, it is possible to clearly identify pandemic waves and peak mortality periods.
+
+This approach allows a more precise comparison between countries and time periods.
 
 # Example Visualizations
 
