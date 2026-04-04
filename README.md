@@ -1,5 +1,25 @@
 # COVID-19 Pandemic Analysis (Python + SQL)
 
+## Project Workflow
+
+This project demonstrates a complete data analysis pipeline:
+
+```
+Raw COVID dataset (CSV)
+        │
+        ▼
+Data Cleaning & Transformation (Python / pandas)
+        │
+        ▼
+Data Storage (SQLite database)
+        │
+        ▼
+SQL Analysis (aggregations, ranking, comparisons)
+        │
+        ▼
+Data Visualization (Matplotlib / Seaborn)
+```
+
 ## Project Overview
 
 This project analyzes COVID-19 pandemic data using **Python and SQL** in order to explore mortality trends and identify the most critical periods of the pandemic in selected European countries.
