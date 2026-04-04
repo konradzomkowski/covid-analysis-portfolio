@@ -24,6 +24,8 @@ Countries analyzed in this project:
 * Matplotlib
 * Seaborn
 
+The project demonstrates a full data analysis pipeline:
+data ingestion → data transformation → SQL analysis → visualization.
 ---
 
 # Project Structure
