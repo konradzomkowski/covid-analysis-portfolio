@@ -160,27 +160,25 @@ The project includes visualizations such as:
 
 ---
 
-# How to Run the Project
+## How to Run the Project
 
-1. Install dependencies
+Install dependencies
 
-```
+```bash
 pip install pandas matplotlib seaborn
 ```
 
-2. Run the Python analysis
+Run Python analysis
 
-```
+```bash
 python covid_analysis.py
 ```
 
-3. Run SQL analysis
+Run SQL analysis
 
-```
+```bash
 python sql_queries.py
 ```
-
----
 
 # Author
 
