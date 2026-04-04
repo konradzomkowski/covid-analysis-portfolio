@@ -48,6 +48,8 @@ The project uses **two different approaches to analyze mortality data**.
 
 ### Python Analysis
 
+![comparison of death rates for all countries](plots/all_countries_comparison.png)
+
 In the Python part of the project, the analysis is based on **total cumulative deaths**.
 
 Because the dataset contains cumulative values, the charts show **periods of increasing growth and flattening curves rather than decreasing values**.
@@ -59,6 +61,11 @@ The Python analysis focuses mainly on:
 * vaccination rollout
 * comparison between countries
 * deaths per million inhabitants
+
+It is important to note that the goal of this visualization is not to determine which country had the highest mortality per million inhabitants.
+Such comparisons can be misleading because the dynamics of disease spread are influenced by many factors, including population size, density, reporting methods, and timing of infection waves.
+
+Instead, the main focus of this analysis is on the overall shape of the curves and their flattening over time, which helps illustrate how mortality trends evolved during the pandemic and how they changed as vaccination campaigns progressed.
 
 ---
 
@@ -105,6 +112,8 @@ Because of this delay, the analysis compares mortality data **several months aft
 ---
 
 # Worst Pandemic Month Analysis
+
+![Worst moth in pandemic](plots/worst_month_pandemic.png)
 
 Another part of the analysis identifies the **worst month of the pandemic for each country** based on the total number of deaths in that month.
 
